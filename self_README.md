@@ -2,3 +2,5 @@
 
 To activate the conda environment associated with this repository, run the following command:
 conda activate llm-from-scratch 
+
+Remember that you also want to implement ChatGPT using Andrej Karpathy's video as well.
