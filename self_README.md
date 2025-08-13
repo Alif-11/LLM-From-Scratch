@@ -1,4 +1,4 @@
-[Following this tutorial. On the "Coding attention mechanisms" section, timestamp 0:11:38, 1.35x speed](https://sebastianraschka.com/blog/2025/coding-llms-from-the-ground-up-a-complete-course.html)
+[Following this tutorial. On the "Coding attention mechanisms" section, timestamp 0:24:02, 1.35x speed](https://sebastianraschka.com/blog/2025/coding-llms-from-the-ground-up-a-complete-course.html)
 
 To activate the conda environment associated with this repository, run the following command:
 conda activate llm-from-scratch 
